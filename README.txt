@@ -125,6 +125,8 @@ Frontend service:
    Start command:
    npm start
 
+- Project demo video:  https://drive.google.com/file/d/1r9f5W3DUO2pYBBfRFyYT6Jtyqy5JG-yV/view?usp=sharing
+
 Live URL
 - Application: https://backend-production-33a2.up.railway.app
 - Backend/API health: https://backend-production-33a2.up.railway.app/api/health
