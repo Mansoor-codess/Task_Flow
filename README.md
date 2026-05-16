@@ -94,5 +94,5 @@ Deploy this repository as two Railway services from the same GitHub repo:
 ## Submission
 
 - Live Application URL: https://backend-production-33a2.up.railway.app
-- GitHub Repository Link: https://github.com/khushibishnoi2707-blip/Task_Flow
+- GitHub Repository Link: https://github.com/Mansoor-codess/Task_Flow.git
 - README file: upload `README.txt`
